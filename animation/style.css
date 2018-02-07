@@ -1,0 +1,24 @@
+.container{
+/*
+    display:block;
+    margin: auto;
+*/
+/*  width: 100%;*/
+}
+.gif-div{
+  background-image:URL(http://i.imgur.com/NOzBfVr.jpg);
+  background-size:cover;
+}
+
+.gif{
+    display:block;
+    margin: auto;
+    width: 85vmin;
+    height: 85vmin;
+    max-width: 900px;
+}
+
+.btn{
+    font-size: 2em;
+    text-align: center;
+}
